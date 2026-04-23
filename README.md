@@ -11,7 +11,7 @@
 I'm a Mathematics graduate (GPA 3.5/4.0, AUST) passionate about turning raw data into actionable business insights. I work as a **Data Analyst** and **Subject Specialist (SS Mathematics )**, and I build end-to-end analytics projects covering EDA, machine learning, and interactive Power BI dashboards.
 
 - 🏆 **1st Position in District Abbottabad** — PTC Competitive Hiring (PST)
-- 📊 Presented research at **ICST-25 International Conference on Science & Technology**
+- onference on Science & Technology**
 - 📜 **20+ certifications** in Data Analytics, Python, SQL, Power BI, and Machine Learning
 - 🌍 Open to **remote opportunities** worldwide
 
